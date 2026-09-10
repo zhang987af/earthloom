@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-09-10",
+    "seed": 187455386,
+    "summary": "新月留下一块安静的暗面。",
+    "status": "live",
+    "metrics": {
+      "earthquakeCount": 38,
+      "maxMagnitude": 5.2,
+      "averageDepth": 39.4,
+      "kpIndex": 3,
+      "solarWind": 441,
+      "meanTemperature": 19.2,
+      "meanWind": 11.6,
+      "moonPhase": 0.9541
+    },
+    "palette": {
+      "void": "hsl(242 38% 5%)",
+      "ink": "hsl(220 44% 9%)",
+      "aurora": "hsl(225.33333333333334 88% 65%)",
+      "tide": "hsl(286 76% 60%)",
+      "ember": "hsl(37.57333333333333 96% 66%)",
+      "mist": "hsl(16 42% 87%)"
+    }
+  },
+  {
     "date": "2026-09-09",
     "seed": 551707656,
     "summary": "新月留下一块安静的暗面。",
